@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotaFisca2.iml" filepath="$PROJECT_DIR$/NotaFisca2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaFiscal2.iml" filepath="$PROJECT_DIR$/NotaFiscal2.iml" />
     </modules>
   </component>
 </project>
