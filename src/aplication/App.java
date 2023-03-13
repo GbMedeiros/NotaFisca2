@@ -20,8 +20,6 @@ public class App {
         v3.inserir(new ItemVenda(4, new Produto(12345, "Bolacha Trakinas", 3.00)));
         System.out.println(v3.toString());
 
-        CadCliente cli;
-
         /*
         ArrayList<Cliente> clientes = new ArrayList<>();
         clientes.add(new Cliente("Gabriel", 001));
