@@ -22,6 +22,7 @@ public class App {
         System.out.println(v3.toString());
 
         /*
+
         ArrayList<Cliente> clientes = new ArrayList<>();
         clientes.add(new Cliente("Gabriel", 001));
         clientes.add(new Cliente("Mickey", 002));
