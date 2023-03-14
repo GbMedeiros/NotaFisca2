@@ -1,4 +1,4 @@
-package aplication;
+package application;
 
 import entidades.*;
 
@@ -7,8 +7,8 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
 
-//como posso acessar o cliente para fazer validacao de existencia?
 
+        //como posso acessar o cliente para fazer validacao de existencia?
         ArrayList<Venda> vendas = new ArrayList<>();
         vendas.add(new Venda(new Cliente("Donald", 345)).inserir(new ItemVenda(2, new Produto(123213, "Oreo", 3.50))));
 
